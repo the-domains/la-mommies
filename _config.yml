@@ -1,0 +1,28 @@
+name: LA Mommies
+favicon: null
+layout_spectrum: 0.24874893622472882
+typography_spectrum: 0.20242649293504655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7568637176882476
+  lightness: 0.08276331075467169
+  saturation: 0.1621176211629063
+  rhythmicContrast: 0.8548028168734163
+purpose: []
