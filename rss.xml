@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LA Mommies]]></title>
+        <description><![CDATA[LA Mommies]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Apr 2016 15:51:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefinedcb4359b1-35dc-4df2-86e2-038d1dc199b6/index.html</link>
+            <guid isPermaLink="false">cb4359b1-35dc-4df2-86e2-038d1dc199b6</guid>
+            <pubDate>Sat, 02 Apr 2016 15:51:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
